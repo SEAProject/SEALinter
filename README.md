@@ -1,0 +1,2 @@
+# SEALinter
+SEALang linter
